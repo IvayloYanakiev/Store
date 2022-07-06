@@ -1,8 +1,6 @@
 package com.example.store.repository;
 
-import com.example.store.model.dtos.OrderRequestDto;
 import com.example.store.model.entities.ProductEntity;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
